@@ -1,3 +1,99 @@
+
+## AI-Assisted Development Approach
+
+During the development of this project, I used ChatGPT as a productivity and learning assistant throughout the engineering process.
+
+The purpose of using AI was not to replace development work, but to improve my workflow, problem-solving ability, and code quality.
+
+### How I Used ChatGPT
+
+### 1. Project Planning & Architecture
+- Discussed the assignment requirements and converted them into a structured development plan.
+- Planned the project architecture, folder structure, components, and implementation approach before writing code.
+- Broke down complex features into smaller, manageable tasks.
+
+### 2. Development Assistance
+- Used ChatGPT to understand implementation approaches and explore possible solutions.
+- Took guidance on React component design, API integration patterns, and best practices.
+- Used suggestions to improve code readability, maintainability, and performance.
+
+### 3. Debugging & Problem Solving
+- Used ChatGPT as a debugging partner to analyze errors, understand root causes, and find solutions.
+- Worked through issues related to:
+  - Frontend state management
+  - API communication
+  - Deployment configuration
+  - Git/GitHub workflow
+  - Runtime errors
+
+### 4. Code Review & Optimization
+- Reviewed code structure and received suggestions for:
+  - Cleaner implementations
+  - Better naming conventions
+  - Improved user experience
+  - Error handling
+
+### 5. Documentation
+- Used AI assistance to improve README documentation and explain technical decisions clearly.
+
+## My Development Process
+
+My workflow remained:
+
+1. Understand the requirement
+2. Plan the solution
+3. Implement features
+4. Test and debug
+5. Optimize the code
+6. Deploy and document
+
+ChatGPT helped accelerate my learning and debugging process, but all final implementation decisions, coding, testing, and deployment were performed by me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
