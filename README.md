@@ -33,8 +33,7 @@ The purpose of using AI was not to replace development work, but to improve my w
   - Improved user experience
   - Error handling
 
-### 5. Documentation
-- Used AI assistance to improve README documentation and explain technical decisions clearly.
+
 
 ## My Development Process
 
